@@ -1,0 +1,28 @@
+module.exports = {
+  sanitizer: [
+    "noob",
+    "khate",
+    "muji",
+    "dick",
+    "pussy",
+    "ghanta",
+    "wtf",
+    "condo",
+    "bitch",
+    "bitches",
+    "machikne",
+    "chup",
+    "geda",
+  ],
+  funnyWords: [
+    "haha",
+    "hah",
+    "hahaha",
+    "hahh",
+    "haa",
+    "lmao",
+    "hahahaha",
+    "lasti",
+    "hasaies",
+  ],
+};
